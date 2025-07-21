@@ -6,10 +6,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sathish-s704/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/sathish-s704/leetcode_submissions/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/sathish-s704/leetcode_submissions/tree/master/0189-rotate-array) |
 ## Math
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/sathish-s704/leetcode_submissions/tree/master/0048-rotate-image) |
+| [0189-rotate-array](https://github.com/sathish-s704/leetcode_submissions/tree/master/0189-rotate-array) |
 ## Matrix
 |  |
 | ------- |
@@ -18,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sathish-s704/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0189-rotate-array](https://github.com/sathish-s704/leetcode_submissions/tree/master/0189-rotate-array) |
 ## String
 |  |
 | ------- |
