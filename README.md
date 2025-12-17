@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sathish-s704/leetcode_submissions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sathish-s704/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0048-rotate-image](https://github.com/sathish-s704/leetcode_submissions/tree/master/0048-rotate-image) |
+| [0053-maximum-subarray](https://github.com/sathish-s704/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sathish-s704/leetcode_submissions/tree/master/0118-pascals-triangle) |
 | [0189-rotate-array](https://github.com/sathish-s704/leetcode_submissions/tree/master/0189-rotate-array) |
 ## Math
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/sathish-s704/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sathish-s704/leetcode_submissions/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/sathish-s704/leetcode_submissions/tree/master/0392-is-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/sathish-s704/leetcode_submissions/tree/master/1250-longest-common-subsequence) |
@@ -65,4 +67,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/sathish-s704/leetcode_submissions/tree/master/0175-combine-two-tables) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/sathish-s704/leetcode_submissions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
