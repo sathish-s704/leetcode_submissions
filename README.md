@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/sathish-s704/leetcode_submissions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sathish-s704/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sathish-s704/leetcode_submissions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sathish-s704/leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/sathish-s704/leetcode_submissions/tree/master/0189-rotate-array) |
 ## Math
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/sathish-s704/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/sathish-s704/leetcode_submissions/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/sathish-s704/leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sathish-s704/leetcode_submissions/tree/master/0392-is-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/sathish-s704/leetcode_submissions/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
