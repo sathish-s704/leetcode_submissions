@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sathish-s704/leetcode_submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sathish-s704/leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sathish-s704/leetcode_submissions/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/sathish-s704/leetcode_submissions/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/sathish-s704/leetcode_submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sathish-s704/leetcode_submissions/tree/master/0231-power-of-two) |
 ## Matrix
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sathish-s704/leetcode_submissions/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/sathish-s704/leetcode_submissions/tree/master/0062-unique-paths) |
 | [0118-pascals-triangle](https://github.com/sathish-s704/leetcode_submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sathish-s704/leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0392-is-subsequence](https://github.com/sathish-s704/leetcode_submissions/tree/master/0392-is-subsequence) |
@@ -73,4 +75,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sathish-s704/leetcode_submissions/tree/master/0053-maximum-subarray) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/sathish-s704/leetcode_submissions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
