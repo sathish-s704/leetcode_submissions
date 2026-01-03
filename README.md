@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/sathish-s704/leetcode_submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sathish-s704/leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0189-rotate-array](https://github.com/sathish-s704/leetcode_submissions/tree/master/0189-rotate-array) |
+| [0560-subarray-sum-equals-k](https://github.com/sathish-s704/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Math
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sathish-s704/leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sathish-s704/leetcode_submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sathish-s704/leetcode_submissions/tree/master/0013-roman-to-integer) |
+| [0560-subarray-sum-equals-k](https://github.com/sathish-s704/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
 | ------- |
@@ -79,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/sathish-s704/leetcode_submissions/tree/master/0062-unique-paths) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/sathish-s704/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
