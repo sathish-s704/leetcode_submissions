@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/sathish-s704/leetcode_submissions/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/sathish-s704/leetcode_submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sathish-s704/leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/sathish-s704/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/sathish-s704/leetcode_submissions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/sathish-s704/leetcode_submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sathish-s704/leetcode_submissions/tree/master/0213-house-robber-ii) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/sathish-s704/leetcode_submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/sathish-s704/leetcode_submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sathish-s704/leetcode_submissions/tree/master/0013-roman-to-integer) |
+| [0128-longest-consecutive-sequence](https://github.com/sathish-s704/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 | [0560-subarray-sum-equals-k](https://github.com/sathish-s704/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 ## Sliding Window
 |  |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/sathish-s704/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/sathish-s704/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
