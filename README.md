@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sathish-s704/leetcode_submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sathish-s704/leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/sathish-s704/leetcode_submissions/tree/master/0058-length-of-last-word) |
+| [0387-first-unique-character-in-a-string](https://github.com/sathish-s704/leetcode_submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/sathish-s704/leetcode_submissions/tree/master/0392-is-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/sathish-s704/leetcode_submissions/tree/master/1250-longest-common-subsequence) |
 ## Dynamic Programming
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/sathish-s704/leetcode_submissions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/sathish-s704/leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0128-longest-consecutive-sequence](https://github.com/sathish-s704/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
+| [0387-first-unique-character-in-a-string](https://github.com/sathish-s704/leetcode_submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/sathish-s704/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sathish-s704/leetcode_submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Sliding Window
@@ -101,4 +103,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/sathish-s704/leetcode_submissions/tree/master/0128-longest-consecutive-sequence) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sathish-s704/leetcode_submissions/tree/master/0387-first-unique-character-in-a-string) |
+## Counting
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/sathish-s704/leetcode_submissions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
