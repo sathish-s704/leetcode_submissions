@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/sathish-s704/leetcode_submissions/tree/master/0213-house-robber-ii) |
 | [0485-max-consecutive-ones](https://github.com/sathish-s704/leetcode_submissions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/sathish-s704/leetcode_submissions/tree/master/0560-subarray-sum-equals-k) |
+| [0746-min-cost-climbing-stairs](https://github.com/sathish-s704/leetcode_submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/sathish-s704/leetcode_submissions/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Math
 |  |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/sathish-s704/leetcode_submissions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/sathish-s704/leetcode_submissions/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/sathish-s704/leetcode_submissions/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/sathish-s704/leetcode_submissions/tree/master/0746-min-cost-climbing-stairs) |
 | [1250-longest-common-subsequence](https://github.com/sathish-s704/leetcode_submissions/tree/master/1250-longest-common-subsequence) |
 ## Hash Table
 |  |
