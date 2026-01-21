@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/sathish-s704/leetcode_submissions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/sathish-s704/leetcode_submissions/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/sathish-s704/leetcode_submissions/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/sathish-s704/leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/sathish-s704/leetcode_submissions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/sathish-s704/leetcode_submissions/tree/master/0231-power-of-two) |
 ## Matrix
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/sathish-s704/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sathish-s704/leetcode_submissions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sathish-s704/leetcode_submissions/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/sathish-s704/leetcode_submissions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/sathish-s704/leetcode_submissions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sathish-s704/leetcode_submissions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/sathish-s704/leetcode_submissions/tree/master/0198-house-robber) |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/sathish-s704/leetcode_submissions/tree/master/0387-first-unique-character-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/sathish-s704/leetcode_submissions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
