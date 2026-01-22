@@ -1,15 +1,21 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>> l1=new ArrayList<>();
-		for(int i=1;i<=numRows;i++){
-		    List<Integer> l2=new ArrayList<>();
-		    int x=1;
-		    for(int k=1;k<=i;k++){
-		        l2.add(x);
-		        x=x*(i-k)/k;
-		    }
-		    l1.add(l2);
-		}
-		return l1;
+        List<List<Integer>>pascal=new ArrayList<>();
+        for(int i=0;i<numRows;i++){
+            List<Integer>row=new ArrayList<>();
+            for(int j=0;j<=i;j++){
+                if(j==0 || j==i){
+                    row.add(1);
+                }
+                else{
+                    List<Integer>previousrow=pascal.get(i-1);
+                    row.add(previousrow.get(j)+previousrow.get(j-1));
+
+                }
+                
+            }
+            pascal.add(row);
+        }
+       return pascal; 
     }
 }
