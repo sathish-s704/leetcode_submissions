@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sathish-s704/leetcode_submissions/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sathish-s704/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/sathish-s704/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/sathish-s704/leetcode_submissions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/sathish-s704/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0063-unique-paths-ii](https://github.com/sathish-s704/leetcode_submissions/tree/master/0063-unique-paths-ii) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sathish-s704/leetcode_submissions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sathish-s704/leetcode_submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0042-trapping-rain-water](https://github.com/sathish-s704/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/sathish-s704/leetcode_submissions/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/sathish-s704/leetcode_submissions/tree/master/0392-is-subsequence) |
 ## String
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/sathish-s704/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/sathish-s704/leetcode_submissions/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sathish-s704/leetcode_submissions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/sathish-s704/leetcode_submissions/tree/master/0063-unique-paths-ii) |
@@ -127,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/sathish-s704/leetcode_submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sathish-s704/leetcode_submissions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/sathish-s704/leetcode_submissions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
